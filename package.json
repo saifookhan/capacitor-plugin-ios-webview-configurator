@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-ios-webview-configurator",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "\"\"",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,9 +13,9 @@
   "author": "Dario Lehmhus",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/android": "^2.4.1",
-    "@capacitor/core": "^2.4.1",
-    "@capacitor/ios": "^2.4.1"
+    "@capacitor/android": "^3.9.0",
+    "@capacitor/core": "^3.9.0",
+    "@capacitor/ios": "^3.9.0"
   },
   "devDependencies": {
     "typescript": "^3.2.4"
